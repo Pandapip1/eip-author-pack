@@ -1,0 +1,25 @@
+{
+    "name": "eip-author-pack",
+    "displayName": "EIP Author's Pack",
+    "description": "A bundle of extensions ideal for writing EIPs",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "afractal.node-essentials", 
+        "christian-kohler.path-intellisense", 
+        "dbaeumer.vscode-eslint",
+        "DavidAnson.vscode-markdownlint",
+        "GitHub.vscode-pull-request-github",  
+        "pandapip1.eipw-vscode",  
+        "streetsidesoftware.code-spell-checker", 
+        "tintinweb.graphviz-interactive-preview", 
+        "tintinweb.solidity-visual-auditor", 
+        "tintinweb.vscode-ethover", 
+        "tintinweb.vscode-solidity-language" 
+    ]
+}
