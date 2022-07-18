@@ -2,7 +2,12 @@
     "name": "eip-author-pack",
     "displayName": "EIP Author's Pack",
     "description": "A bundle of extensions ideal for writing EIPs",
+    "publisher": "pandapip1",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pandapip1/eip-author-pack"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
