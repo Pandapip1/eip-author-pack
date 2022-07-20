@@ -24,10 +24,10 @@
         "GitHub.vscode-pull-request-github",
         "mathiassoeholm.markdown-link-updater",
         "pandapip1.eipw-vscode",
-        "streetsidesoftware.code-spell-checker",
         "tintinweb.graphviz-interactive-preview",
         "tintinweb.solidity-visual-auditor",
         "tintinweb.vscode-ethover",
-        "tintinweb.vscode-solidity-language"
+        "tintinweb.vscode-solidity-language",
+        "znck.grammarly"
     ]
 }
