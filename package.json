@@ -21,6 +21,7 @@
         "DavidAnson.vscode-markdownlint",
         "eamodio.gitlens",
         "GitHub.vscode-pull-request-github",
+        "mathiassoeholm.markdown-link-updater",
         "pandapip1.eipw-vscode",
         "streetsidesoftware.code-spell-checker",
         "tintinweb.graphviz-interactive-preview",
