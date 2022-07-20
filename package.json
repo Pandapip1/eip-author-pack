@@ -16,6 +16,7 @@
     ],
     "extensionPack": [
         "afractal.node-essentials",
+        "blackmist.LinkCheckMD",
         "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint",
         "DavidAnson.vscode-markdownlint",
