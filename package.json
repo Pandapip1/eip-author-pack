@@ -3,7 +3,7 @@
     "displayName": "EIP Author's Pack",
     "description": "A bundle of extensions ideal for writing EIPs",
     "publisher": "pandapip1",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/Pandapip1/eip-author-pack"
