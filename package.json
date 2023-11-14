@@ -9,7 +9,7 @@
         "url": "https://github.com/Pandapip1/eip-author-pack"
     },
     "engines": {
-        "vscode": "^1.69.0"
+        "vscode": "^2023.0.0"
     },
     "categories": [
         "Extension Packs"
